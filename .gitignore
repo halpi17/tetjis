@@ -13,3 +13,6 @@
 /MidiEngine$MyMetaEventListener.class
 /MidiEngine.class
 /WaveEngine.class
+
+.DS_Store
+/data/dic.txt
